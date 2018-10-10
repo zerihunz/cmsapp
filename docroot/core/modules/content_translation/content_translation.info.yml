@@ -7,8 +7,3 @@ package: Multilingual
 version: VERSION
 core: 8.x
 configure: language.content_settings_page
-
-# Information added by drush on 2018-09-05
-version: '8.6.0'
-project: 'drupal'
-datestamp: 1536185780

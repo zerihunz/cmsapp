@@ -22,8 +22,3 @@ libraries-extend:
     - classy/file
   core/drupal.progress:
     - classy/progress
-
-# Information added by drush on 2018-09-05
-version: '8.6.0'
-project: 'drupal'
-datestamp: 1536185780

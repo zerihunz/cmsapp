@@ -9,8 +9,3 @@ dependencies:
   - drupal:contextual
   # @todo Discuss removing in https://www.drupal.org/project/drupal/issues/2935999.
   - drupal:field_ui
-
-# Information added by drush on 2018-09-05
-version: '8.6.0'
-project: 'drupal'
-datestamp: 1536185780

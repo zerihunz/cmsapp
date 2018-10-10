@@ -27,8 +27,3 @@ regions:
   bottom: Bottom
   page_top: 'Page top' # Needed by Drupal Core
   page_bottom: 'Page bottom' # Needed by Drupal Core
-
-# Information added by drush on 2018-09-05
-version: '8.6.0'
-project: 'drupal'
-datestamp: 1536185780
