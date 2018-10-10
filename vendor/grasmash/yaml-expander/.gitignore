@@ -28,11 +28,11 @@
 /vendor/
 
 # Assets and user uploads
-/docroot/bundles/
-/docroot/uploads/
+/web/bundles/
+/web/uploads/
 
 # Assets managed by Bower
-/docroot/assets/vendor/
+/web/assets/vendor/
 
 # PHPUnit
 /app/phpunit.xml

@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitab41f463457dbe3d637930f7c9a3e632
+class ComposerStaticInit08c53c1027b9e38c035efd8ff85350b7
 {
     public static $files = array (
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
@@ -429,11 +429,11 @@ class ComposerStaticInitab41f463457dbe3d637930f7c9a3e632
         ),
         'Drupal\\Driver\\' => 
         array (
-            0 => __DIR__ . '/../..',
+            0 => __DIR__ . '/../..' . '/docroot/drivers/lib/Drupal/Driver',
         ),
         'Drupal\\Core\\' => 
         array (
-            0 => __DIR__ . '/../..',
+            0 => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Core',
         ),
         'Drupal\\Console\\Core\\' => 
         array (
@@ -449,7 +449,7 @@ class ComposerStaticInitab41f463457dbe3d637930f7c9a3e632
         ),
         'Drupal\\Component\\' => 
         array (
-            0 => __DIR__ . '/../..',
+            0 => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Component',
         ),
         'DrupalComposer\\DrupalScaffold\\' => 
         array (
@@ -629,15 +629,15 @@ class ComposerStaticInitab41f463457dbe3d637930f7c9a3e632
         'ArithmeticError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/ArithmeticError.php',
         'AssertionError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/AssertionError.php',
         'DivisionByZeroError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/DivisionByZeroError.php',
-        'Drupal' => __DIR__ . '/../..',
+        'Drupal' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal.php',
         'DrupalFinder\\DrupalFinder' => __DIR__ . '/..' . '/webflo/drupal-finder/src/DrupalFinder.php',
         'DrupalProject\\composer\\ScriptHandler' => __DIR__ . '/../..' . '/scripts/composer/ScriptHandler.php',
-        'Drupal\\Component\\Utility\\Timer' => __DIR__ . '/../..',
-        'Drupal\\Component\\Utility\\Unicode' => __DIR__ . '/../..',
-        'Drupal\\Core\\Database\\Database' => __DIR__ . '/../..',
-        'Drupal\\Core\\DrupalKernel' => __DIR__ . '/../..',
-        'Drupal\\Core\\DrupalKernelInterface' => __DIR__ . '/../..',
-        'Drupal\\Core\\Site\\Settings' => __DIR__ . '/../..',
+        'Drupal\\Component\\Utility\\Timer' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Component/Utility/Timer.php',
+        'Drupal\\Component\\Utility\\Unicode' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Component/Utility/Unicode.php',
+        'Drupal\\Core\\Database\\Database' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Core/Database/Database.php',
+        'Drupal\\Core\\DrupalKernel' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Core/DrupalKernel.php',
+        'Drupal\\Core\\DrupalKernelInterface' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Core/DrupalKernelInterface.php',
+        'Drupal\\Core\\Site\\Settings' => __DIR__ . '/../..' . '/docroot/core/lib/Drupal/Core/Site/Settings.php',
         'Error' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/Error.php',
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',
         'File_Iterator_Facade' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Facade.php',
@@ -1189,10 +1189,10 @@ class ComposerStaticInitab41f463457dbe3d637930f7c9a3e632
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitab41f463457dbe3d637930f7c9a3e632::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitab41f463457dbe3d637930f7c9a3e632::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitab41f463457dbe3d637930f7c9a3e632::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInitab41f463457dbe3d637930f7c9a3e632::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit08c53c1027b9e38c035efd8ff85350b7::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit08c53c1027b9e38c035efd8ff85350b7::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit08c53c1027b9e38c035efd8ff85350b7::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit08c53c1027b9e38c035efd8ff85350b7::$classMap;
 
         }, null, ClassLoader::class);
     }
