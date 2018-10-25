@@ -1,0 +1,14 @@
+uuid: 032d5339-e66b-49d1-8bcc-82237894b4b9
+name: Medicaid
+mail: admin@medicaid.gov
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

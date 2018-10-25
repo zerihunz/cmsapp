@@ -1,0 +1,20 @@
+uuid: 8e56a74b-38f1-41c8-b3e7-fe2d3119aecc
+langcode: en
+status: true
+dependencies:
+  theme:
+    - medicaid
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: medicaid_local_actions
+theme: medicaid
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

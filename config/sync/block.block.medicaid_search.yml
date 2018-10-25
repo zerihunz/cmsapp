@@ -1,0 +1,22 @@
+uuid: a2744b74-5a32-4ded-b28b-e254f65031c1
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - medicaid
+_core:
+  default_config_hash: za-39d5WDUg6XvbyqSnuVYEeq6QM4qKJxW8MnoAha5A
+id: medicaid_search
+theme: medicaid
+region: sidebar_first
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+visibility: {  }

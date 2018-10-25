@@ -1,0 +1,20 @@
+uuid: a1e0ffe2-4a85-4caa-84e6-edf857e8fecc
+langcode: en
+status: true
+dependencies:
+  theme:
+    - medicaid
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: medicaid_page_title
+theme: medicaid
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }
