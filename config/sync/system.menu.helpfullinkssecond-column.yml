@@ -1,0 +1,8 @@
+uuid: 814ca850-26d6-47fc-8f0c-8a27542a07a2
+langcode: en
+status: true
+dependencies: {  }
+id: helpfullinkssecond-column
+label: HelpfulLinksSecond_column
+description: ''
+locked: false
