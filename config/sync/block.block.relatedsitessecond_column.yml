@@ -1,0 +1,24 @@
+uuid: 26926767-c6ca-440d-99d0-8262f1f0fd6f
+langcode: en
+status: true
+dependencies:
+  config:
+  - system.menu.relatedsitessecond-column
+  module:
+  - system
+  theme:
+  - medicaid
+id: relatedsitessecond_column
+theme: medicaid
+region: footer_second
+weight: 0
+provider: null
+plugin: 'system_menu_block:relatedsitessecond-column'
+settings:
+  id: 'system_menu_block:relatedsitessecond-column'
+  label: RelatedSitesSecond_column
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility: {  }

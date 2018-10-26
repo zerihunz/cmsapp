@@ -1,0 +1,24 @@
+uuid: 59b91ac6-5c57-46c7-a25f-2fc8124963f9
+langcode: en
+status: true
+dependencies:
+  config:
+  - system.menu.helpfullinkssecond-column
+  module:
+  - system
+  theme:
+  - medicaid
+id: helpfullinkssecond_column
+theme: medicaid
+region: footer_fourth
+weight: 0
+provider: null
+plugin: 'system_menu_block:helpfullinkssecond-column'
+settings:
+  id: 'system_menu_block:helpfullinkssecond-column'
+  label: HelpfulLinksSecond_column
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility: {  }

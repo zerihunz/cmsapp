@@ -1,0 +1,23 @@
+uuid: e25d2840-1af5-4e18-9b76-c0ef8736321a
+langcode: en
+status: true
+dependencies:
+  config:
+  - system.menu.related-sites
+  module:
+  - system
+  theme:
+  - medicaid
+id: relatedsites
+theme: medicaid
+region: footer_first
+weight: 0
+provider: null
+plugin: 'system_menu_block:related-sites'
+settings:
+  id: 'system_menu_block:related-sites'
+  label: 'Related Sites'
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
