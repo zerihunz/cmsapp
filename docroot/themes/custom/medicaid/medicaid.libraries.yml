@@ -2,7 +2,8 @@ global-styling:
   version: VERSION
   css:
     base:
-      css/base/elements.css: {}
+      css/uswds.css: {}
+      css/base/elements.css: {}  
     component:
       css/components/block.css: {}
       css/components/book.css: {}
@@ -62,6 +63,7 @@ global-styling:
       css/style.css: {}
       css/print.css: { media: print }
 
+
 messages:
   version: VERSION
   css:
@@ -90,5 +92,6 @@ maintenance_page:
 global-scripting:
   js:
     js/global.js: {}
+    js/uswds.min.js: {}
   dependencies:
     - core/jquery
