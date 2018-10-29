@@ -5,9 +5,7 @@
  * 2. Prevent iOS and IE text size adjust after device orientation change,
  *    without disabling user zoom.
  */
- #main{
-   background-color: #ff0000 !important;
- }
+
 html {
   font-family: sans-serif;
   /* 1 */
