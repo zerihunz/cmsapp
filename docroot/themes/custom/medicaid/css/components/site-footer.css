@@ -67,14 +67,14 @@
 }
 .site-footer h2 {
   color: #c0c0c0;
-  color: rgba(255, 255, 255, 0.65);
+  /*color: rgba(255, 255, 255, 0.65);*/
 }
 .site-footer blockquote {
   color: #555;
 }
 .site-footer .content {
   color: #c0c0c0;
-  color: rgba(255, 255, 255, 0.65);
+  /*color: rgba(255, 255, 255, 0.65);*/
   font-size: 0.857em;
 }
 .site-footer .menu-item {
@@ -91,8 +91,8 @@
 }
 .site-footer .content a,
 .site-footer .content a.is-active {
-  color: #fcfcfc;
-  color: rgba(255, 255, 255, 0.8);
+  /*color: #fcfcfc;*/
+  /*color: rgba(255, 255, 255, 0.8);*/
 }
 .site-footer .content a:hover,
 .site-footer .content a:focus {
