@@ -1,0 +1,25 @@
+uuid: 627219d1-b1d6-4e93-86d5-d4cd9fbc28ea
+langcode: en
+status: true
+dependencies:
+  content:
+  - 'block_content:basic:0ece5929-4b43-439d-9dff-d821243ed962'
+  module:
+  - block_content
+  theme:
+  - medicaid
+id: secondaryfooter
+theme: medicaid
+region: footer_fifth
+weight: 0
+provider: null
+plugin: 'block_content:0ece5929-4b43-439d-9dff-d821243ed962'
+settings:
+  id: 'block_content:0ece5929-4b43-439d-9dff-d821243ed962'
+  label: 'Secondary Footer'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: default
+visibility: {  }
