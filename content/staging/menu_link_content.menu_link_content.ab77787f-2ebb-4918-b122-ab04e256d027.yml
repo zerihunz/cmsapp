@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: ab77787f-2ebb-4918-b122-ab04e256d027
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: HHS.gov
+description: {  }
+menu_name:
+  -
+    value: related-sites
+link:
+  -
+    uri: 'http://www.hhs.gov/'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:24:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

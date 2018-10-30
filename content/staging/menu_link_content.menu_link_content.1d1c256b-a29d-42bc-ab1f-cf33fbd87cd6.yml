@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 1d1c256b-a29d-42bc-ab1f-cf33fbd87cd6
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Web Policies and Important Links '
+description: {  }
+menu_name:
+  -
+    value: helpfullinkssecond-column
+link:
+  -
+    uri: 'https://www.cms.gov/about-cms/agency-information/aboutwebsite/index.html'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

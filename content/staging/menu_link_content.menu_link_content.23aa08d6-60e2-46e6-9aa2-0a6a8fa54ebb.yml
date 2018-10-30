@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 23aa08d6-60e2-46e6-9aa2-0a6a8fa54ebb
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Help with File Formats & Plug-ins'
+description: {  }
+menu_name:
+  -
+    value: helpfullinkssecond-column
+link:
+  -
+    uri: 'https://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:35:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 0552d043-9b29-43c4-8cc9-fa800ac094f9
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Site Feedback'
+description: {  }
+menu_name:
+  -
+    value: helpful-links
+link:
+  -
+    uri: 'mailto:Medicaid.gov@cms.hhs.gov?subject=Medicaid.gov%20Feedback'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -46
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:33:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
