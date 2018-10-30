@@ -22,7 +22,8 @@ body {
   background-image: -webkit-linear-gradient(top, #055a8e 0%, #1d84c3 100%);
   background-image: linear-gradient(to bottom, #055a8e 0%, #1d84c3 100%);
 }
-a,
+
+/*a,
 .link {
   color: #0071b3;
 }
@@ -35,7 +36,7 @@ a:focus,
 a:active,
 .link:active {
   color: #23aeff;
-}
+}*/
 .sidebar .block {
   background-color: #f6f6f2;
   border-color: #f9f9f9;

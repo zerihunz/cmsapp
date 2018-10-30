@@ -68,30 +68,12 @@ h2#block-helpfullinks-menu:hover {
 h2#block-relatedsites-menu:hover {    
     text-decoration: underline;
 }
-
-.site-footer .content a{
-  color: #046791;
-  text-decoration: none;
-}
-/*
-.site-footer .content a:visited{
-  color: #862074;
-}
-*/
-.site-footer .content a:hover {
-  color: #17415f;
-}
 .site-footer__top .content li a {
     padding-left: 15px !important;
     padding-top: 0.4rem !important;
     padding-bottom: 0.4rem !important;
 }
 
-/* chnages into main config file
-a:hover, a:active {
-    color: #17415f !important;
-}
-*/
 @media all and (min-width: 992px) {
   .site-footer__top .region.region-footer-first {
     width: 16%;
@@ -122,4 +104,20 @@ a:hover, a:active {
     font-weight: 600;
     content: "\f35d";
     padding-left: 2px;
+}
+
+/*==========External Link styles================*/
+a{
+  color: #046791;
+}
+
+a:hover,
+a:active
+{
+  color: #17415f;
+  outline: 0;
+}
+
+a:visited {
+ color: #862074;
 }
