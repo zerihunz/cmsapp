@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 7220c1e6-fb06-441d-9e6a-082d36c7049f
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'No Fear Act'
+description: {  }
+menu_name:
+  -
+    value: helpful-links
+link:
+  -
+    uri: 'https://www.cms.gov/about-cms/agency-information/aboutwebsite/nofearact.html'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -48
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:33:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

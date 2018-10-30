@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 0c14fcae-4a07-4222-ab0f-97afa27e3a25
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Plain Language'
+description: {  }
+menu_name:
+  -
+    value: helpfullinkssecond-column
+link:
+  -
+    uri: 'https://www.plainlanguage.gov/'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:34:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

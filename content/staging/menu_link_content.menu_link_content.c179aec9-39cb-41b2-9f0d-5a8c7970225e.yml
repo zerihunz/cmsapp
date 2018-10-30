@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: c179aec9-39cb-41b2-9f0d-5a8c7970225e
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Healthcare.gov
+description: {  }
+menu_name:
+  -
+    value: relatedsitessecond-column
+link:
+  -
+    uri: 'https://www.healthcare.gov/'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:27:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

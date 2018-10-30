@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: de11ac2a-3049-4383-8c5a-aab53d83fa2c
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Archive
+description: {  }
+menu_name:
+  -
+    value: helpful-links
+link:
+  -
+    uri: 'https://archive-it.org/collections/2651'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -47
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:33:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

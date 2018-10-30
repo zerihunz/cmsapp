@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 5e3555ff-7725-4a0a-af8b-0e6600b86ddb
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Nondiscrimination & Accessibility'
+description: {  }
+menu_name:
+  -
+    value: helpfullinkssecond-column
+link:
+  -
+    uri: 'https://www.cms.gov/about-cms/agency-information/aboutwebsite/cmsnondiscriminationnotice.html'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:35:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
