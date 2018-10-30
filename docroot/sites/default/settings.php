@@ -766,6 +766,9 @@ $settings['entity_update_batch_size'] = 50;
  */
 
 $config_directories['sync'] = '../config/sync';
+global $content_directories;
+$content_directories['sync'] = $app_root.'/../content/sync';
+
 
 if (file_exists('/var/www/site-php')) {
   require '/var/www/site-php/medicaid/medicaid-settings.inc';

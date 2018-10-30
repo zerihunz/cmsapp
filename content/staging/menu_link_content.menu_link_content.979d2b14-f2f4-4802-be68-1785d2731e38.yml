@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 979d2b14-f2f4-4802-be68-1785d2731e38
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: InsureKidsNow.gov
+description: {  }
+menu_name:
+  -
+    value: related-sites
+link:
+  -
+    uri: 'https://www.insurekidsnow.gov'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:25:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

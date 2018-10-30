@@ -1,0 +1,20 @@
+{
+  "name": "medicaid",
+  "version": "1.0.0",
+  "description": "medicaid uswds template",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "medicaid@svn-29892.prod.hosting.acquia.com:medicaid.git"
+  },
+  "keywords": [
+    "medicaid",
+    "uswds",
+    "acquia"
+  ],
+  "author": "Signature Consulting Group",
+  "license": "ISC"
+}

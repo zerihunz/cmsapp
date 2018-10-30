@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: ca24c612-8efa-4b22-9ff6-b60ecaffdb4f
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Privacy Policy'
+description: {  }
+menu_name:
+  -
+    value: helpful-links
+link:
+  -
+    uri: 'https://www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -49
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-10-26T19:33:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
