@@ -56,10 +56,10 @@ body{
 @media(min-width:560px)
 {
     .region.region-footer-second {
-        margin-top: 43px;
+        margin-top: 33px;
     }
     .region.region-footer-fourth {
-        margin-top: 45px;
+        margin-top: 33px;
     }
 }
 h2#block-helpfullinks-menu:hover {
@@ -72,20 +72,21 @@ h2#block-relatedsites-menu:hover {
     padding-left: 15px !important;
     padding-top: 0.4rem !important;
     padding-bottom: 0.4rem !important;
+    text-decoration: none !important;
 }
 
 @media all and (min-width: 992px) {
   .site-footer__top .region.region-footer-first {
-    width: 16%;
+    width: 18%;
   }
   .site-footer__top .region.region-footer-second {
-    width: 16%;
+    width: 18%;
   }
   .site-footer__top .region.region-footer-third {
     width: 15%;
   }
   .site-footer__top .region.region-footer-fourth {
-    width: 28%;
+    width: 26%;
   }
 }
 

@@ -89,16 +89,7 @@
   padding-right: 1.4em;
   padding-left: 0;
 }
-.site-footer .content a,
-.site-footer .content a.is-active {
-  /*color: #fcfcfc;*/
-  /*color: rgba(255, 255, 255, 0.8);*/
-}
-.site-footer .content a:hover,
-.site-footer .content a:focus {
-  color: #fefefe;
-  color: rgba(255, 255, 255, 0.95);
-}
+
 .site-footer .block {
   margin: 20px 0;
   border: 1px solid #444;
@@ -153,12 +144,7 @@
 [dir="rtl"] .site-footer__top .content li a {
   padding: 0.8em 20px 0.8em 2px;
 }
-.site-footer__top .content li a:hover,
-.site-footer__top .content li a:focus {
-  background-color: #1f1f21;
-  background-color: rgba(255, 255, 255, 0.05);
-  text-decoration: none;
-}
+
 .site-footer__top .block-menu,
 .site-footer__bottom .block {
   margin: 0;

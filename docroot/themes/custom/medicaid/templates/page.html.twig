@@ -110,7 +110,7 @@
       </div>
     {% endif %}
     <footer class="site-footer">
-      <div>
+      <div class="usa-grid">
         {% if page.footer_first or page.footer_second or page.footer_third or page.footer_fourth %}
           <div class="site-footer__top clearfix">
             {{ page.footer_first }}
@@ -122,10 +122,10 @@
         {% if page.footer_fifth %}
           <div class="site-footer__bottom">
             {{ page.footer_fifth }}
-              {%  include '@medicaid/includes/secondary-footer.html.twig' %}
           </div>
         {% endif %}
       </div>
+      {% include '@medicaid/includes/secondary-footer.html.twig' %}  
     </footer>
   </div>
 </div>
