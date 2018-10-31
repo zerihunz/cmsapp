@@ -1,6 +1,6 @@
 /*Import the libraries for the Font-awesome*/
-/*@import '../../../../libraries/fontawesome5/css/all.css';
-*/
+@import '../../../../libraries/fontawesome5/css/all.css';
+
 .usa-banner {
     background-color: #f1f1f1;
     padding-bottom: 0.7rem;
