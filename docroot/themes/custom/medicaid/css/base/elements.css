@@ -54,9 +54,9 @@ h2,
 }
 h3,
 .heading-c {
-  margin: 1em 0 0.5em;
-  font-weight: inherit;
-  font-size: 1.092em;
+  /*margin: 1em 0 0.5em;*/
+  /*font-weight: inherit;*/
+  /*font-size: 1.092em;*/
 }
 h4,
 .heading-d {
@@ -81,7 +81,7 @@ h6,
   letter-spacing: 0.1em;
 }
 p {
-  margin: 0 0 1.2em;
+  /*margin: 0 0 1.2em;*/
 }
 del {
   text-decoration: line-through;
