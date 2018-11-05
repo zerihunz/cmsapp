@@ -5,7 +5,7 @@
 
 .site-footer {
   /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  padding: 35px 0 30px;
+  padding: 0px 0 30px;
 }
 .site-footer .layout-container {
   padding: 0 15px;
@@ -137,11 +137,11 @@
   border-bottom: 1px solid #555;
   border-color: rgba(255, 255, 255, 0.15);
   line-height: 1.2;
-  padding: 0.8em 2px 0.8em 20px; /* LTR */
+  padding: 0em 2px 0em 20px; /* LTR */
   text-indent: -15px;
 }
 [dir="rtl"] .site-footer__top .content li a {
-  padding: 0.8em 20px 0.8em 2px;
+  padding: 0em 20px 0em 2px;
 }
 
 .site-footer__top .block-menu,

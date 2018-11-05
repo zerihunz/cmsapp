@@ -862,7 +862,7 @@ readers do not read off random characters that represent icons */
 .fa-clock:before {
   content: "\f017"; }
 
-.fa-clone:before {
+.fa-clone:after {
   content: "\f24d"; }
 
 .fa-closed-captioning:before {

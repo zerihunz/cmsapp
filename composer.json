@@ -23,6 +23,8 @@
         "drupal/console": "^1.0.2",
         "drupal/content_sync": "^2.0",
         "drupal/core": "^8.6.2",
+        "drupal/fontawesome": "^2.9",
+        "drupal/menu_link_attributes": "^1.0",
         "drupal/search_api": "^1.10",
         "drupal/search_api_solr": "^2.2",
         "drush/drush": "^9.0.0",
